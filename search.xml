@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>我的新帖子</title>
+    <title>为什么多少编程语言中数组多以0开始编号，看完这张图你就知道~！</title>
     <url>/2019/10/13/%E6%88%91%E7%9A%84%E6%96%B0%E5%B8%96%E5%AD%90/</url>
-    <content><![CDATA[]]></content>
+    <content><![CDATA[<h1 id="a-i-address-base-address-1-data-type-size"><a href="#a-i-address-base-address-1-data-type-size" class="headerlink" title="a[i]_address = base_address + 1 * data_type_size"></a>a[i]_address = base_address + 1 * data_type_size</h1><p><img src="../../../../images/cpu.jpg" alt="avatar"></p>
+]]></content>
   </entry>
   <entry>
     <title>Hello World</title>
